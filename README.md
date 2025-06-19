@@ -57,10 +57,10 @@ This project is an Arduino-based alarm clock that allows users to set an alarm u
 Below are photos of the assembled project:
 
 ### Full Setup
-![Full Setup](path/to/full-setup.jpg)
+![Full Setup](full-setup.jpg)
 
 ### Breadboard Close-Up
-![Breadboard Close-Up](path/to/breadboard-closeup.jpg)
+![Breadboard Close-Up](breadboard-closeup.jpg)
 
 ## Usage
 1. Use the buttons to set the hours and minutes.
